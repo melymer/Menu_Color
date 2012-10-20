@@ -1,0 +1,7 @@
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/amarillo" android:title="amarillo"></item>
+        <item android:id="@+id/azul" android:title="azul"></item>
+        <item android:id="@+id/rojo" android:title="rojo"></item>
+        <item android:id="@+id/about" android:title="Acerda de..."></item>
+    </menu>

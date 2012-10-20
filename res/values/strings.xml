@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MenuColor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_menu_color">MenuColor</string>
+    <string name="mensaje">Selecciona el color en el Menu de opciones para cambiar el color del siguiente texto: </string>
+    <string name="mencolor">CAMBIEME DE COLOR !!!!</string>
+
+</resources>
